@@ -47,6 +47,7 @@ To use the program:
 To get started with the project:
 - Clone the repository.
 - Compile and run the `Program` file to launch the application.
+- This code was written alongside Kyle Chung and should not be reproduced in academic setting.
 
 ## License
 
